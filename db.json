@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Caneta Vermelha"
+    },
+    {
+      "id": "2",
+      "name": "Azul Vermelha"
+    },
+    {
+      "id": "3",
+      "name": "Caneta verde"
+    },
+    {
+      "id": "4",
+      "name": "Caneta amarela"
+    },
+    {
+      "id": "5",
+      "name": "Chapeu"
+    },
+    {
+      "id": "3",
+      "name": "Produto novo"
+    },
+    {
+      "id": "6",
+      "name": "Produto novo",
+      "price": 5
+    }
+  ],
+  "customer": [
+    {
+      "id": "1",
+      "name": "Matheus Araujo"
+    }
+  ]
+}
